@@ -10,7 +10,7 @@ This project performs a detailed data analysis of Netflix movies and TV shows, f
 - Study release year patterns and content growth trends.  
 - Create visualizations to communicate findings effectively.  
 - Derive insights & recommendations for content strategy.
-- 
+  
 # Key Analyses
 - Growth in Netflix content by year (movies vs TV shows)
 - Most popular genres across time
